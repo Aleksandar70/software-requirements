@@ -1,0 +1,6 @@
+Generated data dictionary for DDBS
+Start: generated structures
+  Structure Customer:<name of company,ptt,name of place,street,number,tax identification number,/identification number,activity code,bank account,phone,web address,email/>
+  Structure Registration:<index number,first name of student,last name of student,date,{<first name,last name>}>
+  Structure Employee:<employee code,first name,last name,position>
+End: generated structures
