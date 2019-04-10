@@ -3,7 +3,7 @@ Data dictionary project
 
 Data dictionary - a set of information describing the contents, format, and structure of a database and the relationship between its elements, used to control access to and manipulation of the database.
 
-This is an example of the language for creating data dictionary. All concepts are covered which contains one complete data dictionary. When creating dictionary elements, certain constraints and rules are given, by which they respect certain requirements from the real system. Also, in case some of these rules are violated, it is offered automatic correction of the same. We have defined 14 rules. The following rules are defined in the system:
+This is an example of the language for creating data dictionary. All concepts are covered which contains one complete data dictionary. When creating dictionary elements, certain constraints and rules are given, by which they respect certain requirements from the real system. Also, in case some of these rules are violated, it is offered automatic correction (quick fix) of the same. We have defined 14 rules. The following rules are defined in the system:
 
 1. rule_IAbstractStructure_min_one_element
 2. rule_aggregation_duplicate
