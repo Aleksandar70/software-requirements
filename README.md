@@ -1,4 +1,4 @@
-# softverski-zahtevi
+# software-requirements
 Data dictionary project
 
 Data dictionary - a set of information describing the contents, format, and structure of a database and the relationship between its elements, used to control access to and manipulation of the database.
